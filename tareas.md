@@ -8,6 +8,6 @@ Github desktop app
 Node .js
 Y para descargar http-server (que sirve para entrar a localhost:8080)
 Primero instalar Node y después en consola correr este comando
-'''
+´´´
 npm install -g http-server
-'''
+´´´
